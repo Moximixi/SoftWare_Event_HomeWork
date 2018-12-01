@@ -1,2 +1,1 @@
-# SoftWare_Event_HomeWork
-软件项目管理过程作业
+## 本库用于提交软件项目管理过程的作业
